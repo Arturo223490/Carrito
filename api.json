@@ -1,0 +1,119 @@
+[
+    {
+        "precio": 10.00,
+        "id":1,
+        "title": "Bug",
+        "thumbnailUrl": "https://al223490.000webhostapp.com/PokemonTypes/Bug.png"
+    },
+
+    {
+        "precio": 20.00,
+        "id":2,
+        "title": "Dark",
+        "thumbnailUrl": "https://al223490.000webhostapp.com/PokemonTypes/Dark.png"
+    },
+
+    {
+        "precio": 30.00,
+        "id":3,
+        "title": "Dragon",
+        "thumbnailUrl": "https://al223490.000webhostapp.com/PokemonTypes/Dragon.png"
+    },
+
+    {
+        "precio": 40.00,
+        "id":4,
+        "title": "Electric",
+        "thumbnailUrl": "https://al223490.000webhostapp.com/PokemonTypes/Electric.png"
+    },
+
+    {
+        "precio": 50.00,
+        "id":5,
+        "title": "Fairy",
+        "thumbnailUrl": "https://al223490.000webhostapp.com/PokemonTypes/Fairy.png"
+    },
+
+    {
+        "precio": 60.00,
+        "id":6,
+        "title": "Fighting",
+        "thumbnailUrl": "https://al223490.000webhostapp.com/PokemonTypes/Fighting.png"
+    },
+
+    {
+        "precio": 70.00,
+        "id":7,
+        "title": "Fire",
+        "thumbnailUrl": "https://al223490.000webhostapp.com/PokemonTypes/Fire.png"
+    },
+
+    {
+        "precio": 80.00,
+        "id":8,
+        "title": "Flying",
+        "thumbnailUrl": "https://al223490.000webhostapp.com/PokemonTypes/Flying.png"
+    },
+
+    {
+        "precio": 90.00,
+        "id":9,
+        "title": "Ghost",
+        "thumbnailUrl": "https://al223490.000webhostapp.com/PokemonTypes/Ghost.png"
+    },
+
+    {
+        "precio": 100.00,
+        "id":10,
+        "title": "Grass",
+        "thumbnailUrl": "https://al223490.000webhostapp.com/PokemonTypes/Grass.png"
+    },
+
+    {
+        "precio": 110.00,
+        "id":11,
+        "title": "Ground",
+        "thumbnailUrl": "https://al223490.000webhostapp.com/PokemonTypes/Ground.png"
+    },
+
+    {
+        "precio": 120.00,
+        "id":12,
+        "title": "Ice",
+        "thumbnailUrl": "https://al223490.000webhostapp.com/PokemonTypes/Ice.png"
+    },
+
+    {
+        "precio": 130.00,
+        "id":13,
+        "title": "Normal",
+        "thumbnailUrl": "https://al223490.000webhostapp.com/PokemonTypes/Normal.png"
+    },
+
+    {
+        "precio": 140.00,
+        "id":14,
+        "title": "Poison",
+        "thumbnailUrl": "https://al223490.000webhostapp.com/PokemonTypes/Poison.png"
+    },
+
+    {
+        "precio": 150.00,
+        "id":15,
+        "title": "Psychic",
+        "thumbnailUrl": "https://al223490.000webhostapp.com/PokemonTypes/Psychic.png"
+    },
+
+    {
+        "precio": 160.00,
+        "id":16,
+        "title": "Rock",
+        "thumbnailUrl": "https://al223490.000webhostapp.com/PokemonTypes/Rock.png"
+    }
+
+
+
+
+
+
+]
